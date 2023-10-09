@@ -33,6 +33,6 @@ I am a Frontend Developer <img style="display: block;-webkit-user-select: none;m
 -----------
 
 ### Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/maniraad/)[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/maniraad)[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://github.com/maniraad)            [![My Skills](https://icons8.com/icon/oWiuH0jFiU0R/telegram-app)](https://github.com/maniraad)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/maniraad/)[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/maniraad)[![My Skills](icons8-linkedin.svg)](#)[![My Skills](icons8-telegram.svg)](https://telegram.org/maniraad7/)
 
 

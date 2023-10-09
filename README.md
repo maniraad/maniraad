@@ -10,7 +10,8 @@
 const response = {
     status: 202,
     data:{
-        name:"Mani Rad",
+        firstName:"Mani",
+        lastName:"Rad",
         birthDay:"5 may",
         skills:"html ,css ,js "
     }

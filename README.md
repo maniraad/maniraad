@@ -29,7 +29,9 @@ const response = {
 
 ### My skills :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,pug,git,figma)](https://skillicons.dev)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,pug,git,figma">
+</p>
 
 -----------
 

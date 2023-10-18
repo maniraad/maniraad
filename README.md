@@ -30,7 +30,7 @@ const response = {
 ### My skills :
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,pug,git,figma">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,git,figma">
 </p>
 
 -----------

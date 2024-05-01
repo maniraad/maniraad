@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);width: 25px;height: 25px;" src="https://user-images.githubusercontent.com/22401814/180605987-b4b14081-4005-4ea1-bcfd-cbe7c3bf36ef.gif">
 
 
 

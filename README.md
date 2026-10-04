@@ -13,7 +13,7 @@ const response = {
         firstName:"Mani",
         lastName:"Rad",
         birthDay:"5 may",
-        skills:"html ,css ,js "
+        skills:"html ,css ,js, react "
     }
 };
 
